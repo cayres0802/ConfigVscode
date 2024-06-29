@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Kawaii Theme",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",    
+    },
+    "code-runner.ignoreSelection": true,
+    "git.enableSmartCommit": true,
+    
+}
